@@ -1,0 +1,33 @@
+Julio G :
+ Vitorias: 0
+ Derrotas: 1
+ Empates: 0
+ Balanço Final: 90.000000
+Antonio :
+ Vitorias: 0
+ Derrotas: 1
+ Empates: 0
+ Balanço Final: 80.000000
+Antonio :
+ Vitorias: 0
+ Derrotas: 1
+ Empates: 0
+ Balanço Final: 90.000000
+Antonio :
+ Vitorias: 3
+ Derrotas: 6
+ Empates: 1
+ Balanço Final: 4.000000
+Eugenio :
+ Vitorias: 3
+ Derrotas: 7
+ Empates: 1
+ Balanço Final: 2.000000
+Julio G :
+ Vitorias: 5
+ Derrotas: 9
+ Empates: 5
+ Balanço Final: 2.500000
+
+
+ Balanço da casa: 331.500000

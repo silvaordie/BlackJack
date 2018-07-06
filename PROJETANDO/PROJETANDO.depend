@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1463771534 source:/home/jose/Teste/PROJETANDO/AI.c
+	<stdlib.h>
+	<stdio.h>
+	"ConstEstrut.h"
+	"Data.h"
+	"Gameplay.h"
+
+1463771534 /home/jose/Teste/PROJETANDO/ConstEstrut.h
+
+1463694684 /home/jose/Teste/PROJETANDO/Data.h
+
+1463770239 /home/jose/Teste/PROJETANDO/Gameplay.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+
+1463790962 source:/home/jose/Teste/PROJETANDO/Data.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"ConstEstrut.h"
+
+1463773792 source:/home/jose/Teste/PROJETANDO/Gameplay.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ConstEstrut.h"
+	"Data.h"
+	"AI.h"
+	"Graphics.h"
+
+1463694684 /home/jose/Teste/PROJETANDO/AI.h
+
+1463580886 /home/jose/Teste/PROJETANDO/Graphics.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+
+1463790672 source:/home/jose/Teste/PROJETANDO/Graphics.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	"ConstEstrut.h"
+	"Data.h"
+
+1463773941 source:/home/jose/Teste/PROJETANDO/main.c
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	"ConstEstrut.h"
+	"Data.h"
+	"AI.h"
+	"Gameplay.h"
+	"Graphics.h"
+
